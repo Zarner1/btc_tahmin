@@ -16,7 +16,7 @@ SCALER_PATH = "scaler.pkl"
 FEATURES_PATH = "rfe_selected_features.pkl"
 # YENİ: Scaler için doğru sütun sırasının yolu
 SCALER_COLUMNS_PATH = "features_columns_for_scaler.pkl"
-HISTORICAL_DATA_PATH = "C:/Users/yildi/OneDrive/Desktop/projeCrypto/btc_verisi.csv" # Gerekirse güncelleyin
+HISTORICAL_DATA_PATH = "btc_verisi.csv" 
 REQUIRED_HISTORICAL_DAYS = 40 # İndikatör hesaplama bağlamı için
 
 # --- 1. Load Saved Artifacts ---
